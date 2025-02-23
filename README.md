@@ -22,7 +22,9 @@ As a Digital Strategist, I bridge the gap between IT and Marketing, combining te
 
 **Tools:**  
 ✔ MS Project, Trello, ClickUp, Wrike, Monday.com, SmartSheet, Podio
+
 ---
+
 ### **📢 Marketing & Growth**
 
 > Data-driven marketing strategies to optimize engagement and conversions.
@@ -30,7 +32,9 @@ As a Digital Strategist, I bridge the gap between IT and Marketing, combining te
 ✔ Google Ads, Facebook/Twitter Ad Campaigns  
 ✔ Email Marketing (Constant Contact, MailChimp, Marketo/Eloqua)  
 ✔ SEO / SEM / SMM / CRO, HubSpot, CPM
+
 ---
+
 ### **💻 Development & Tech Stack**
 
 > Full-stack development with a focus on usability, scalability, and performance.
@@ -39,14 +43,18 @@ As a Digital Strategist, I bridge the gap between IT and Marketing, combining te
 ✔ **CMS & Databases:** WordPress, MySQL, MariaDB, MongoDB, ArangoDB  
 ✔ **DevOps & Infrastructure:** GitHub, Linux (Fedora, Red Hat, Ubuntu)  
 ✔ **E-Commerce:** PayPal, Authorize.net
+
 ---
 ### **🎨 UX/UI & Creative Tools**
+
 
 > Designing intuitive interfaces and compelling digital experiences.
 
 ✔ Photoshop, Illustrator, Fireworks, Adobe XD, Balsamiq, Figma, Miro  
 ✔ Audio & Video Editing: Articulate, Captivate, Camtasia, Snag-It
+
 ---
+
 ### **📊 Data & Analytics**
 
 > Making data-driven decisions with real-time insights.
