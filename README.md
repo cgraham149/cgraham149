@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-#### RESUME: https://github.com/cgraham149/ccg-resume
+#### 🖹 RESUME: https://github.com/cgraham149/ccg-resume
+### 📫 CONTACT: cgraham149@gmail.com
 
 - 🤔 I’m currently learning to fine tune and use a local LLM for RAG (Retrieval-Augmented Generation).
 - 📫 How to reach me: cgraham149@gmail.com
