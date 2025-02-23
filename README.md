@@ -41,7 +41,7 @@ As a Digital Strategist, I bridge the gap between IT and Marketing, combining te
 - CPM
 ---
 ### Development (Web & Mobile) :
-- HTML, CSS, PHP, React, Vue, Node
+- HTML, CSS, JavaScript, Python, PHP, React, Vue, Node
 - Wordpress
 - MySQL, MariaDB, MongoDB, ArangoDB
 - GITHUB
