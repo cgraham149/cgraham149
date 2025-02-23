@@ -45,7 +45,7 @@ As a Digital Strategist, I bridge the gap between IT and Marketing, combining te
 - Wordpress
 - MySQL, MariaDB, MongoDB, ArangoDB
 - GITHUB
-- Linux (Fedora, Redhat, Ubuntu)
+- Linux (Fedora, Redhat, Ubuntu, Manjaro)
 - E-Commerce (PayPal, Authorize.net)
 ---
 ### Creative (UI/UX):
