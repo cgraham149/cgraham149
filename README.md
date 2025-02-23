@@ -57,6 +57,6 @@ Designing intuitive interfaces and compelling digital experiences.
 
 ### **📊 Data & Analytics**
 
-> Making data-driven decisions with real-time insights.
+Making data-driven decisions with real-time insights.
 
 ✔ Google Analytics, Google Tag Manager, Heap, Tealium
