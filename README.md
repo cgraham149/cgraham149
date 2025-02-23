@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Craig and this is where I keep random tidbits.
+
 #### 📄 RESUME: https://github.com/cgraham149/ccg-resume
 #### 📫 CONTACT: cgraham149@gmail.com
 
