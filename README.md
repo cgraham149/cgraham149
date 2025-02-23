@@ -13,49 +13,42 @@ As a Digital Strategist, I bridge the gap between IT and Marketing, combining te
 
 ---  
 
-### Project Management
+### **🛠️ Project Management & Strategy**
 
-#### Methodologies:
-- Waterfall
-- Critical Path
-- Agile (KANBAN & SCRUM)
-- Lean
-- ADDIE+M ISD Model
+> Managing projects from concept to execution using the right methodology for the job.
 
-#### Tools:
-- MS Project
-- activeCollab
-- SmartSheet
-- Trello
-- ClickUp
-- Wrike
-- Monday.com
-- Podio
+**Methodologies:**  
+✔ Waterfall, Critical Path, Agile (KANBAN & SCRUM), Lean, ADDIE+M ISD Model
+
+**Tools:**  
+✔ MS Project, Trello, ClickUp, Wrike, Monday.com, SmartSheet, Podio
 ---
-### Marketing:
-- Google Adwords
-- Facebook / Twitter Ad Campaigns
-- Email Marketing (Constant Contact, MailChimp, Marketo / Eloqua)
-- Hubspot
-- SEO / SEM / SMM / CRO
-- CPM
+### **📢 Marketing & Growth**
+
+> Data-driven marketing strategies to optimize engagement and conversions.
+
+✔ Google Ads, Facebook/Twitter Ad Campaigns  
+✔ Email Marketing (Constant Contact, MailChimp, Marketo/Eloqua)  
+✔ SEO / SEM / SMM / CRO, HubSpot, CPM
 ---
-### Development (Web & Mobile) :
-- HTML, CSS, JavaScript, Python, PHP, React, Vue, Node
-- Wordpress
-- MySQL, MariaDB, MongoDB, ArangoDB
-- GITHUB
-- Linux (Fedora, Redhat, Ubuntu, Manjaro)
-- E-Commerce (PayPal, Authorize.net)
+### **💻 Development & Tech Stack**
+
+> Full-stack development with a focus on usability, scalability, and performance.
+
+✔ **Languages & Frameworks:** HTML, CSS, PHP, React, Vue, Node  
+✔ **CMS & Databases:** WordPress, MySQL, MariaDB, MongoDB, ArangoDB  
+✔ **DevOps & Infrastructure:** GitHub, Linux (Fedora, Red Hat, Ubuntu)  
+✔ **E-Commerce:** PayPal, Authorize.net
 ---
-### Creative (UI/UX):
-- Photoshop, Illustrator, Fireworks
-- Adobe XD, Balsamiq, Figma, Miro
-- Audio & Video Editing
-- Articulate, Captivate, Camtasia, Snag-It
+### **🎨 UX/UI & Creative Tools**
+
+> Designing intuitive interfaces and compelling digital experiences.
+
+✔ Photoshop, Illustrator, Fireworks, Adobe XD, Balsamiq, Figma, Miro  
+✔ Audio & Video Editing: Articulate, Captivate, Camtasia, Snag-It
 ---
-### Analytics:
-- Google Analytics
-- Google Tag Manager
-- Heap
-- Tealium
+### **📊 Data & Analytics**
+
+> Making data-driven decisions with real-time insights.
+
+✔ Google Analytics, Google Tag Manager, Heap, Tealium
