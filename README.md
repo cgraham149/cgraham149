@@ -15,7 +15,7 @@ As a Digital Strategist, I bridge the gap between IT and Marketing, combining te
 
 ### **🛠️ Project Management & Strategy**
 
-> Managing projects from concept to execution using the right methodology for the job.
+Managing projects from concept to execution using the right methodology for the job.
 
 **Methodologies:**  
 ✔ Waterfall, Critical Path, Agile (KANBAN & SCRUM), Lean, ADDIE+M ISD Model
@@ -27,7 +27,7 @@ As a Digital Strategist, I bridge the gap between IT and Marketing, combining te
 
 ### **📢 Marketing & Growth**
 
-> Data-driven marketing strategies to optimize engagement and conversions.
+Data-driven marketing strategies to optimize engagement and conversions.
 
 ✔ Google Ads, Facebook/Twitter Ad Campaigns  
 ✔ Email Marketing (Constant Contact, MailChimp, Marketo/Eloqua)  
@@ -37,7 +37,7 @@ As a Digital Strategist, I bridge the gap between IT and Marketing, combining te
 
 ### **💻 Development & Tech Stack**
 
-> Full-stack development with a focus on usability, scalability, and performance.
+Full-stack development with a focus on usability, scalability, and performance.
 
 ✔ **Languages & Frameworks:** HTML, CSS, PHP, React, Vue, Node  
 ✔ **CMS & Databases:** WordPress, MySQL, MariaDB, MongoDB, ArangoDB  
@@ -48,7 +48,7 @@ As a Digital Strategist, I bridge the gap between IT and Marketing, combining te
 ### **🎨 UX/UI & Creative Tools**
 
 
-> Designing intuitive interfaces and compelling digital experiences.
+Designing intuitive interfaces and compelling digital experiences.
 
 ✔ Photoshop, Illustrator, Fireworks, Adobe XD, Balsamiq, Figma, Miro  
 ✔ Audio & Video Editing: Articulate, Captivate, Camtasia, Snag-It
