@@ -6,5 +6,5 @@
 
 📫 How to reach me: cgraham149@gmail.com
 
-⚡ Fun fact: I lived in Tijuana as an expat for a year before covid.
+⚡ Fun fact: I'm a gringo who lived in Tijuana, as an expat for a year before covid.
 
