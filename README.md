@@ -13,4 +13,49 @@ As a Digital Strategist, I bridge the gap between IT and Marketing, combining te
 
 ---  
 
+### Project Management
 
+#### Methodologies:
+- Waterfall
+- Critical Path
+- Agile (KANBAN & SCRUM)
+- Lean
+- ADDIE+M ISD Model
+
+#### Tools:
+- MS Project
+- activeCollab
+- SmartSheet
+- Trello
+- ClickUp
+- Wrike
+- Monday.com
+- Podio
+---
+### Marketing:
+- Google Adwords
+- Facebook / Twitter Ad Campaigns
+- Email Marketing (Constant Contact, MailChimp, Marketo / Eloqua)
+- Hubspot
+- SEO / SEM / SMM / CRO
+- CPM
+---
+### Development (Web & Mobile) :
+- HTML, CSS, PHP, React, Vue, Node
+- Wordpress
+- MySQL, MariaDB, MongoDB, ArangoDB
+- GITHUB
+- Linux (Fedora, Redhat, Ubuntu)
+- E-Commerce (PayPal, Authorize.net)
+---
+### Creative (UI/UX):
+- Photoshop, Illustrator, Fireworks
+- Adobe XD, Balsamiq, Figma, Miro
+- Audio & Video Editing
+- Articulate, Captivate, Camtasia, Snag-It
+---
+### Analytics:
+- Google Analytics
+- Google Tag Manager
+- Heap
+- Tealium
