@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🤔 I’m currently learning how to use a fine tuned local AI for RAG.
+🤔 I’m currently learning to fine tune and use a local LLM for RAG (Retrieval-Augmented Generation).
 
 📫 How to reach me: cgraham149@gmail.com
 
