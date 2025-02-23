@@ -1,6 +1,8 @@
 ## Hi there 👋  
 
-I'm Craig—a full-stack developer, GraphDB enthusiast (ArangoDB, Neo4j), and AI tinkerer.  
+Hey, I’m Craig. I tinker with self-hosting, automation, and open-source tools—always learning, always building.
+
+As a Digital Strategist, I bridge the gap between IT and Marketing, combining technical expertise with strategic insight. I'm a full-stack developer, GraphDB enthusiast (ArangoDB, Neo4j), and AI tinkerer, always exploring ways to optimize workflows and enhance decision-making.
 
 #### 📄 RESUME: [ccg-resume](https://github.com/cgraham149/ccg-resume)  
 #### 📫 CONTACT: cgraham149@gmail.com  
