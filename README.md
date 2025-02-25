@@ -50,8 +50,8 @@ Full-stack development with a focus on usability, scalability, and performance.
 
 Designing intuitive interfaces and compelling digital experiences.
 
-✔ Photoshop, Illustrator, Fireworks, Adobe XD, Balsamiq, Figma, Miro  
-✔ Audio & Video Editing: Articulate, Captivate, Camtasia, Snag-It
+✔ Creative: Photoshop, Illustrator, Fireworks, Adobe XD, Affinity Designer, Balsamiq, Figma, Miro, Inkscape  
+✔ Audio & Video Screen Recording/Editing: OBS Studio, Shotcut, Articulate, Captivate, Camtasia, Snag-It
 
 ---
 
@@ -59,4 +59,4 @@ Designing intuitive interfaces and compelling digital experiences.
 
 Making data-driven decisions with real-time insights.
 
-✔ Google Analytics, Google Tag Manager, Heap, Tealium
+✔ Google Analytics, Google Tag Manager, Heap, Tealium, Open Web Analytics, PostHog, Matomo, Metabase, Umami,
