@@ -50,8 +50,10 @@ Full-stack development with a focus on usability, scalability, and performance.
 
 Designing intuitive interfaces and compelling digital experiences.
 
-✔ Creative: Photoshop, Illustrator, Fireworks, Adobe XD, Affinity Designer, Balsamiq, Figma, Miro, Inkscape  
-✔ Audio & Video Screen Recording/Editing: OBS Studio, Shotcut, Articulate, Captivate, Camtasia, Snag-It
+✔ **UX/UI:** Adobe XD, Balsamiq, Figma, Miro, Penpot
+✔ **Raster Images:** Adobe Photoshop, Gimp
+✔ **Vector Images:** Adobe Illustrator, Affinity Designer, Inkscape
+✔ **Audio & Video Recording/Editing:** OBS Studio, Shotcut, Articulate, Captivate, Camtasia, Snag-It
 
 ---
 
