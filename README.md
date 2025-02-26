@@ -45,12 +45,13 @@ Full-stack development with a focus on usability, scalability, and performance.
 ✔ **E-Commerce:** PayPal, Authorize.net
 
 ---
+
 ### **🎨 UX/UI & Creative Tools**
 
 
 Designing intuitive interfaces and compelling digital experiences.
 
-✔ **UX/UI:** Adobe XD, Balsamiq, Figma, Miro, Penpot 
+✔ **UX/UI:** Adobe XD, Balsamiq, Figma, Miro, Penpot
 ✔ **Raster Images:** Adobe Photoshop, Gimp
 ✔ **Vector Images:** Adobe Illustrator, Affinity Designer, Inkscape
 ✔ **Audio & Video Recording/Editing:** OBS Studio, Shotcut, Articulate, Captivate, Camtasia, Snag-It
