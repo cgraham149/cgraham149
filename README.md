@@ -31,7 +31,7 @@ Data-driven marketing strategies to optimize engagement and conversions.
 
 ✔ Google Ads, Facebook/Twitter Ad Campaigns  
 ✔ Email Marketing (Constant Contact, MailChimp, Marketo/Eloqua)  
-✔ SEO / SEM / SMM / CRO, HubSpot, CPM
+✔ SEO / SEM / SMM / CRO, HubSpot, CPM 
 
 ---
 
@@ -50,7 +50,7 @@ Full-stack development with a focus on usability, scalability, and performance.
 
 Designing intuitive interfaces and compelling digital experiences.
 
-✔ **UX/UI:** Adobe XD, Balsamiq, Figma, Miro, Penpot
+✔ **UX/UI:** Adobe XD, Balsamiq, Figma, Miro, Penpot 
 ✔ **Raster Images:** Adobe Photoshop, Gimp
 ✔ **Vector Images:** Adobe Illustrator, Affinity Designer, Inkscape
 ✔ **Audio & Video Recording/Editing:** OBS Studio, Shotcut, Articulate, Captivate, Camtasia, Snag-It
