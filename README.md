@@ -18,10 +18,10 @@ As a Digital Strategist, I bridge the gap between IT and Marketing, combining te
 Managing projects from concept to execution using the right methodology for the job.
 
 **Methodologies:**  
-✔ Waterfall, Critical Path, Agile (KANBAN & SCRUM), Lean, ADDIE+M ISD Model
+✔ Waterfall, Critical Path, Agile (KANBAN & SCRUM), Lean, ADDIE+M ISD Model  
 
 **Tools:**  
-✔ MS Project, Trello, ClickUp, Wrike, Monday.com, SmartSheet, Podio
+✔ MS Project, Trello, ClickUp, Wrike, Monday.com, SmartSheet, Podio  
 
 ---
 
@@ -31,7 +31,7 @@ Data-driven marketing strategies to optimize engagement and conversions.
 
 ✔ Google Ads, Facebook/Twitter Ad Campaigns  
 ✔ Email Marketing (Constant Contact, MailChimp, Marketo/Eloqua)  
-✔ SEO / SEM / SMM / CRO, HubSpot, CPM 
+✔ SEO / SEM / SMM / CRO, HubSpot, CPM  
 
 ---
 
@@ -42,7 +42,7 @@ Full-stack development with a focus on usability, scalability, and performance.
 ✔ **Languages & Frameworks:** HTML, CSS, PHP, React, Vue, Node  
 ✔ **CMS & Databases:** WordPress, MySQL, MariaDB, MongoDB, ArangoDB  
 ✔ **DevOps & Infrastructure:** GitHub, Linux (Fedora, Red Hat, Ubuntu)  
-✔ **E-Commerce:** PayPal, Authorize.net
+✔ **E-Commerce:** PayPal, Authorize.net  
 
 ---
 
@@ -51,10 +51,10 @@ Full-stack development with a focus on usability, scalability, and performance.
 
 Designing intuitive interfaces and compelling digital experiences.
 
-✔ **UX/UI:** Adobe XD, Balsamiq, Figma, Miro, Penpot
-✔ **Raster Images:** Adobe Photoshop, Gimp
-✔ **Vector Images:** Adobe Illustrator, Affinity Designer, Inkscape
-✔ **Audio & Video Recording/Editing:** OBS Studio, Shotcut, Articulate, Captivate, Camtasia, Snag-It
+✔ **UX/UI:** Adobe XD, Balsamiq, Figma, Miro, Penpot  
+✔ **Raster Images:** Adobe Photoshop, Gimp  
+✔ **Vector Images:** Adobe Illustrator, Affinity Designer, Inkscape  
+✔ **Audio & Video Recording/Editing:** OBS Studio, Shotcut, Articulate, Captivate, Camtasia, Snag-It  
 
 ---
 
