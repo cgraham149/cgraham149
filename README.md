@@ -13,26 +13,6 @@ As a Digital Strategist, I bridge the gap between IT and Marketing, combining te
 
 ---  
 
-### **🛠️ Project Management & Strategy**
-
-Managing projects from concept to execution using the right methodology for the job.
-
-**Methodologies:**  
-✔ Waterfall, Critical Path, Agile (KANBAN & SCRUM), Lean, ADDIE+M ISD Model  
-
-**Tools:**  
-✔ MS Project, Trello, ClickUp, Wrike, Monday.com, SmartSheet, Podio  
-
----
-
-### **📢 Marketing & Growth**
-
-Data-driven marketing strategies to optimize engagement and conversions.
-
-✔ Google Ads, Facebook/Twitter Ad Campaigns  
-✔ Email Marketing (Constant Contact, MailChimp, Marketo/Eloqua)  
-✔ SEO / SEM / SMM / CRO, HubSpot, CPM  
-
 ---
 
 ## **🧠 AI & Machine Learning**  
@@ -67,6 +47,28 @@ Bridging AI, data, and real-world applications.
 ✔ **AI-Powered Marketing:** AI-driven customer segmentation & insights  
 ✔ **AI in Media:** Automated transcription, subtitle generation (Whisper AI)  
 ✔ **No-Code/Low-Code AI:** AutoGPT, AgentGPT, Zapier AI  
+
+---
+
+### **🛠️ Project Management & Strategy**
+
+Managing projects from concept to execution using the right methodology for the job.
+
+**Methodologies:**  
+✔ Waterfall, Critical Path, Agile (KANBAN & SCRUM), Lean, ADDIE+M ISD Model  
+
+**Tools:**  
+✔ MS Project, Trello, ClickUp, Wrike, Monday.com, SmartSheet, Podio  
+
+---
+
+### **📢 Marketing & Growth**
+
+Data-driven marketing strategies to optimize engagement and conversions.
+
+✔ Google Ads, Facebook/Twitter Ad Campaigns  
+✔ Email Marketing (Constant Contact, MailChimp, Marketo/Eloqua)  
+✔ SEO / SEM / SMM / CRO, HubSpot, CPM  
 
 ---
 
