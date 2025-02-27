@@ -19,7 +19,7 @@ As a Digital Strategist, I bridge the gap between IT and Marketing, combining te
 
 Exploring AI's impact on business, automation, and decision-making.  
 
-✔ **LLMs (Large Language Models):** GPT-4, Llama (Meta), Mistral, Claude (Anthropic)  
+✔ **LLMs (Large Language Models):** GPT-4, Llama (Meta), Mistral, Claude (Anthropic), Deepseek, Qwen  
 ✔ **Retrieval-Augmented Generation (RAG):** Hybrid AI systems combining **retrieval + generation**  
 ✔ **Vector Databases:** FAISS, ChromaDB, Weaviate, Pinecone  
 ✔ **Fine-Tuning & Prompt Engineering:** Optimizing LLMs, LoRA, OpenAI fine-tuning API  
