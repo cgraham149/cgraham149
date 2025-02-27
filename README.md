@@ -41,7 +41,7 @@ Full-stack development with a focus on usability, scalability, and performance.
 
 ✔ **Languages & Frameworks:** HTML, CSS, PHP, React, Vue, Node  
 ✔ **CMS & Databases:** WordPress, MySQL, MariaDB, MongoDB, ArangoDB  
-✔ **DevOps & Infrastructure:** GitHub, Linux (Fedora, Red Hat, Ubuntu)  
+✔ **DevOps & Infrastructure:** GitHub, Docker, Podman, Kubernetes, Linux (Debian, Fedora, Red Hat, CentOS, Ubuntu)  
 ✔ **E-Commerce:** PayPal, Authorize.net  
 
 ---
