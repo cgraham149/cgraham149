@@ -11,11 +11,11 @@ As a Digital Strategist, I bridge the gap between IT and Marketing, combining te
 - 🤔 Always exploring ways to bridge **AI, data, and real-world applications**.  
 - ⚡ Fun fact: I lived in **Tijuana 🇲🇽** as an expat for a year before COVID—wish I had learned more Spanish!  
 
----  
-
 ---
 
-## **🧠 AI & Machine Learning**  
+## Artificial Intelligence
+
+### **🧠 AI & Machine Learning**  
 
 Exploring AI's impact on business, automation, and decision-making.  
 
@@ -27,7 +27,7 @@ Exploring AI's impact on business, automation, and decision-making.
 
 ---
 
-## **🛠️ AI Tools & Development**  
+### **🛠️ AI Tools & Development**  
 
 Leveraging AI tools for local and cloud-based applications.  
 
@@ -39,7 +39,7 @@ Leveraging AI tools for local and cloud-based applications.
 
 ---
 
-## **📍 AI for Business & Automation**  
+### **📍 AI for Business & Automation**  
 
 Bridging AI, data, and real-world applications.  
 
