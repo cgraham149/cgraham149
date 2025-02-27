@@ -35,6 +35,41 @@ Data-driven marketing strategies to optimize engagement and conversions.
 
 ---
 
+## **🧠 AI & Machine Learning**  
+
+Exploring AI's impact on business, automation, and decision-making.  
+
+✔ **LLMs (Large Language Models):** GPT-4, Llama (Meta), Mistral, Claude (Anthropic)  
+✔ **Retrieval-Augmented Generation (RAG):** Hybrid AI systems combining **retrieval + generation**  
+✔ **Vector Databases:** FAISS, ChromaDB, Weaviate, Pinecone  
+✔ **Fine-Tuning & Prompt Engineering:** Optimizing LLMs, LoRA, OpenAI fine-tuning API  
+✔ **Multimodal AI:** AI for text, images, audio (Gemini, LLaVA, Whisper AI)  
+
+---
+
+## **🛠️ AI Tools & Development**  
+
+Leveraging AI tools for local and cloud-based applications.  
+
+✔ **Local AI Hosting:** LM Studio, Ollama, Llama.cpp, GPT4All  
+✔ **Cloud AI Services & APIs:** OpenAI API, Anthropic API, OpenUI, Google Vertex AI  
+✔ **AI Frameworks & Libraries:** Hugging Face, LangChain, LlamaIndex  
+✔ **AI Model Serving:** vLLM, FastAPI, TensorFlow Serving  
+✔ **AI-Powered Search & Chatbots:** OpenAI Assistants API, LangChain agents  
+
+---
+
+## **📍 AI for Business & Automation**  
+
+Bridging AI, data, and real-world applications.  
+
+✔ **AI for Automation:** AI-generated reports, document processing  
+✔ **AI-Powered Marketing:** AI-driven customer segmentation & insights  
+✔ **AI in Media:** Automated transcription, subtitle generation (Whisper AI)  
+✔ **No-Code/Low-Code AI:** AutoGPT, AgentGPT, Zapier AI  
+
+---
+
 ### **💻 Development & Tech Stack**
 
 Full-stack development with a focus on usability, scalability, and performance.
