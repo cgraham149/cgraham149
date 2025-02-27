@@ -39,8 +39,8 @@ Data-driven marketing strategies to optimize engagement and conversions.
 
 Full-stack development with a focus on usability, scalability, and performance.
 
-✔ **Languages & Frameworks:** HTML, CSS, PHP, React, Vue, Node  
-✔ **CMS & Databases:** WordPress, MySQL, MariaDB, MongoDB, ArangoDB  
+✔ **Languages & Frameworks:** HTML, CSS, JavaScript, PHP, React, Vue, Node, Python  
+✔ **CMS & Databases:** WordPress, MySQL, MariaDB, MongoDB, ArangoDB, Neo4j  
 ✔ **DevOps & Infrastructure:** GitHub, Docker, Podman, Kubernetes, Linux (Debian, Fedora, Red Hat, CentOS, Ubuntu)  
 ✔ **E-Commerce:** PayPal, Authorize.net  
 
